@@ -1,0 +1,5 @@
+gem "bcrypt-ruby"
+gem "uuidtools"
+gem "memcache-client"
+gem "rack"
+
